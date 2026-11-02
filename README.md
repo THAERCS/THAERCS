@@ -10,7 +10,7 @@ Advanced In
 * **Tools:** Git, GitHub
 
 Intermediate With
-* **Frontend:** JavaScript, HTML, CSS, PHP
+* **Frontend:** JavaScript, HTML, CSS, Python
 * **Backend & DB:** ASP.NET, C#, SQL
   
 ### 📫 Let's Connect:
