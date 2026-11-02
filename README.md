@@ -1,7 +1,7 @@
 # Hello, I'm THAER TAHA 👋
 
 👨‍💻 Mobile Developer | Computer Science Graduate
-🎯 Passionate about building clean, responsive web interfaces and cross-platform apps.
+🎯 Passionate about building clean, "Passionate about building clean cross-platform apps."
 
 ### 🛠️ My Tech Stack:
 Advanced In
